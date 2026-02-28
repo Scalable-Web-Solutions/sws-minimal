@@ -1,0 +1,34 @@
+# Scalable Web Solutions
+
+> Strategic technology execution for ambitious companies
+
+## About
+
+Scalable Web Solutions provides custom software delivery across product, infrastructure, and security. With eight years of senior-level execution, we specialize in:
+
+- Frontend Development
+- Backend Development
+- Mobile Development
+- Penetration Testing
+- Enterprise Solutions
+
+## Services
+
+We offer comprehensive technology solutions including:
+
+- Custom software development and architecture
+- Full-stack web application development
+- Mobile app development (iOS/Android)
+- Security audits and penetration testing
+- Enterprise software consulting
+- Infrastructure design and implementation
+- Product development and strategy
+
+## Contact
+
+Email: contact@scalableweb.solutions
+Website: https://scalableweb.solutions
+
+## Expertise
+
+Our team brings senior-level expertise in modern technology stacks, security best practices, and scalable architecture design. We work with ambitious companies looking for strategic technology partners who can execute at the highest level.
