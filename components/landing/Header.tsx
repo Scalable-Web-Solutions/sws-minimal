@@ -62,7 +62,7 @@ export function Header() {
       </div>
 
       {open && (
-        <div className="md:hidden bg-[--background] border-t border-[--border]">
+        <div className="md:hidden border-t border-[--border] bg-[--surface]/88 backdrop-blur-xl shadow-[0_18px_60px_rgba(23,20,17,0.12)]">
           <nav className="max-w-[1440px] mx-auto px-6 py-8 flex flex-col gap-6">
             {navLinks.map((link) => (
               <a
